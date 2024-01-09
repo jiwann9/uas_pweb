@@ -117,37 +117,37 @@
         <img src="img/menu/gayung.png" alt="Gayung Estetik" class="menu-card-img">
         <h3 class="menu-card-title">- Gayung Estetik -</h3>
         <p class="menu-card-price">IDR 5K</p>
-        <a href="https://wa.me/6289669598941">Order</a>
+        <a href="order/transaksi.php">Order</a>
       </div>
       <div class="menu-card">
         <img src="img/menu/ember-removebg-preview.png" alt="Ember Anti Pecah" class="menu-card-img">
         <h3 class="menu-card-title">- Ember Anti Pecah -</h3>
         <p class="menu-card-price">IDR 15K</p>
-        <a href="https://wa.me/6289669598941">Order</a>
+        <a href="order/transaksi.php">Order</a>
       </div>
       <div class="menu-card">
         <img src="img/menu/Tempat Sampah.png" alt="Tempat Sampah" class="menu-card-img">
         <h3 class="menu-card-title">- Tempat Sampah -</h3>
         <p class="menu-card-price">IDR 30K</p>
-        <a href="https://wa.me/6289669598941">Order</a>
+        <a href="order/transaksi.php">Order</a>
       </div>
       <div class="menu-card">
         <img src="img/menu/sapu.png" alt="Sapu Ajaib" class="menu-card-img">
         <h3 class="menu-card-title">- Sapu Ajaib -</h3>
         <p class="menu-card-price">IDR 15K</p>
-        <a href="https://wa.me/6289669598941">Order</a>
+        <a href="order/transaksi.php">Order</a>
       </div>
       <div class="menu-card">
         <img src="img/menu/mesin cuci.png" alt="Mesin Cuci" class="menu-card-img">
         <h3 class="menu-card-title">- Mesin Cuci -</h3>
         <p class="menu-card-price">IDR 1.5Jt</p>
-        <a href="https://wa.me/6289669598941">Order</a>
+        <a href="order/transaksi.php">Order</a>
       </div>
       <div class="menu-card">
         <img src="img/menu/Pel.png" alt="Alat Pel" class="menu-card-img">
         <h3 class="menu-card-title">- Alat Pel -</h3>
         <p class="menu-card-price">IDR 20K</p>
-        <a href="https://wa.me/6289669598941">Order</a>
+        <a href="order/transaksi.php">Order</a>
       </div>
     </div>
   </section>
@@ -161,7 +161,7 @@
     <div class="row">
       <div class="product-card">
         <div class="product-icons">
-          <a href="https://api.whatsapp.com/send?phone=6289669598941&text=Saya%20Ingin%20Membeli%20Perabotan%20Ngab"><i data-feather="shopping-cart"></i></a>
+          <a href="order/transaksi.php"><i data-feather="shopping-cart"></i></a>
         </div>
         <div class="product-image">
           <img src="img/products/Kulkas.png" alt="Product 1">
@@ -180,7 +180,7 @@
       </div>
       <div class="product-card">
         <div class="product-icons">
-          <a href="https://api.whatsapp.com/send?phone=6289669598941&text=Saya%20Ingin%20Membeli%20Perabotan%20Ngab"><i data-feather="shopping-cart"></i></a>
+          <a href="order/transaksi.php"><i data-feather="shopping-cart"></i></a>
         </div>
         <div class="product-image">
           <img src="img/products/Panci.png" alt="Product 2">
@@ -199,7 +199,7 @@
       </div>
       <div class="product-card">
         <div class="product-icons">
-          <a href="https://api.whatsapp.com/send?phone=6289669598941&text=Saya%20Ingin%20Membeli%20Perabotan%20Ngab"><i data-feather="shopping-cart"></i></a>
+          <a href="order/transaksi.php"><i data-feather="shopping-cart"></i></a>
         </div>
         <div class="product-image">
           <img src="img/products/Magicom.png" alt="Product 3">
